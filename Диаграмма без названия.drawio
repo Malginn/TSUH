@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" modified="2023-09-22T05:49:54.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="8NUdx_NU4I9TrI0ehdUi" type="github">
+  <diagram name="Страница — 1" id="A12LXowUizDRTpv2h5K6">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Начало" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Идентифицировать основную функцию" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" width="306" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Идентифицировать входы и выходы функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="474" width="352" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Идентифицировать управляющие и контролирующие элементы" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="877" width="488" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Идентифицировать механизмы и способы реализации функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1414" width="487" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Идентифицировать альтернативные реализации функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1952" width="444" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Определить стратегию развития и использования функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2446" width="455" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Оценить возможные эффекты и риски функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2950" width="370" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Определить требования к информации" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3371" width="306" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Идентифицировать процессы, выполняемые функцией" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3727" width="425" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Идентифицировать информационные потоки" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4201" width="349" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Идентифицировать ограничения функции" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4601" width="327" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Идентифицировать дополнительные требования" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4978" width="377" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Окончание" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5404" width="95" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0026884639964384;exitY=0.5060606291799834;entryX=0.000597436443652982;entryY=0.5060606291799834;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.00039318807764;exitY=0.5060606291799834;entryX=0.0003418055447665128;entryY=0.5060606291799834;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0016202493147417;exitY=0.5060606291799834;entryX=-0.0008804759041207736;entryY=0.5060606291799834;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9982230077024365;exitY=0.5060606291799834;entryX=0.0002727469379652207;entryY=0.5060606291799834;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.001042767471846;exitY=0.5060606291799834;entryX=-0.0011084960387633728;entryY=0.5060606291799834;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9998486836751302;exitY=0.5060606291799834;entryX=-0.00014765812800480768;entryY=0.5060606291799834;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9987534407730941;exitY=0.5060606291799834;entryX=0.0011697717615076013;entryY=0.5060606291799834;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0018454474371832;exitY=0.5060606291799834;entryX=-0.0010365504844515932;entryY=0.5060606291799834;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9987592011495353;exitY=0.5060606291799834;entryX=-0.0008933751723345588;entryY=0.5060606291799834;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.998341890222886;exitY=0.5060606291799834;entryX=0.0008461413889013252;entryY=0.5060606291799834;" edge="1" parent="1" source="11" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0022430419921875;exitY=0.5060606291799834;entryX=-0.000664153959408448;entryY=0.5060606291799834;" edge="1" parent="1" source="12" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9985713200467078;exitY=0.5060606291799834;entryX=-0.0012391998533861075;entryY=0.5060606291799834;" edge="1" parent="1" source="13" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9984955319675274;exitY=0.5060606291799834;entryX=0.004555953176398026;entryY=0.5060606291799834;" edge="1" parent="1" source="14" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
